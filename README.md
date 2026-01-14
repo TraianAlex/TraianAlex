@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Traian 👋
 
-<!--
-**TraianAlex/TraianAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Senior Front-End Developer** with 8+ years of experience building scalable, high-quality web applications using **Angular, React, and TypeScript**.
 
-Here are some ideas to get you started:
+I enjoy turning complex requirements into **clean, intuitive user interfaces** and working closely with product, design, and backend teams to deliver reliable, maintainable solutions. I’ve worked on large enterprise platforms as well as smaller products, always focusing on performance, accessibility, and long-term code quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+- Building modern, responsive web applications  
+- Component-based architecture and clean UI design  
+- Performance, accessibility, and maintainability  
+- Collaborating in Agile teams and mentoring developers  
+
+### Tech I work with
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS  
+- **State & Data:** RxJS, Redux, REST APIs  
+- **Tools:** Git, Docker, CI/CD, Jest, Webpack  
+- **UI/UX:** Responsive design, accessibility, design systems  
