@@ -8,10 +8,4 @@ I enjoy turning complex requirements into **clean, intuitive user interfaces** a
 - Building modern, responsive web applications  
 - Component-based architecture and clean UI design  
 - Performance, accessibility, and maintainability  
-- Collaborating in Agile teams and mentoring developers  
-
-### Tech I work with
-- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS  
-- **State & Data:** RxJS, Redux, REST APIs  
-- **Tools:** Git, Docker, CI/CD, Jest, Webpack  
-- **UI/UX:** Responsive design, accessibility, design systems  
+- Collaborating in Agile teams and mentoring developers
